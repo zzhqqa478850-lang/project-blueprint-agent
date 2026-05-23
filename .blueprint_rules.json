@@ -1,0 +1,5 @@
+{
+  "architecture_conventions": [
+    "Do not use lodash"
+  ]
+}
